@@ -97,7 +97,7 @@ export const services = [
     icon: FaDatabase
   },
   {
-    title: "IT Support & Technical Troubleshooting",
+    title: "IT Consultancy , Support & Technical Troubleshooting",
     description: "Diagnosing and resolving hardware/software issues to maintain smooth operations.",
     icon: FaTools
   },
